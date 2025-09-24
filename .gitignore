@@ -7,3 +7,32 @@
 .kiro/steering/byterover-rules.md
 .qoder/rules/byterover-rules.md
 .augment/rules/byterover-rules.md
+
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Scripts de desarrollo (no necesarios para el sitio web)
+download-icons.js
+generate-initials-agents.js
+generate-avatar-agents.js
+scraper.js
+
+# Archivos temporales
+agents-initials.json
+agents-avatars.json
+wasap_market.html
+
+# Archivos de configuración de desarrollo
+.kilocode/
+package.json
+package-lock.json
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
