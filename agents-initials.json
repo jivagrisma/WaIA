@@ -1,0 +1,789 @@
+[
+  {
+    "name": "TuCanChat",
+    "provider": "Tucanchat LLC",
+    "description": "Tu asistente personal de WhatsApp para traducción instantánea y respuestas de notas de voz",
+    "tags": [
+      "idiomas",
+      "traducción",
+      "audios"
+    ],
+    "whatsappLink": "https://wa.me/14787788226?text=Hi%2C%20I%20come%20from%20wasap.market",
+    "icon": null,
+    "initials": "T",
+    "color": "#06B6D4"
+  },
+  {
+    "name": "EVA",
+    "provider": "Portal Labs",
+    "description": "Transcribe y resume tus audios de WhatsApp",
+    "tags": [
+      "productividad",
+      "audio"
+    ],
+    "whatsappLink": "https://wa.me/19029174177?text=%C2%A1Hola%20EVA!",
+    "icon": null,
+    "initials": "E",
+    "color": "#3B82F6"
+  },
+  {
+    "name": "RevisaCV",
+    "provider": "Portal Labs",
+    "description": "Revisa tu CV con el toque de un experto",
+    "tags": [
+      "empleabilidad",
+      "profesional",
+      "cv"
+    ],
+    "whatsappLink": "https://wa.me/15795022265?text=Quiero%20revisar%20mi%20CV",
+    "icon": null,
+    "initials": "R",
+    "color": "#F97316"
+  },
+  {
+    "name": "Rex Nutribot",
+    "provider": "BabylonAI GmbH",
+    "description": "Seguimiento de calorías con IA: registro de entrenamientos y comidas en WhatsApp",
+    "tags": [
+      "fitness",
+      "comida",
+      "salud"
+    ],
+    "whatsappLink": "https://wa.me/12293942678?text=Hi%2C%20I%20come%20from%20wasap.market",
+    "icon": null,
+    "initials": "RN",
+    "color": "#EF4444"
+  },
+  {
+    "name": "Wasap Finance",
+    "provider": "Portal Labs",
+    "description": "Registra tus gastos desde WhatsApp",
+    "tags": [
+      "finanzas",
+      "contabilidad",
+      "economía"
+    ],
+    "whatsappLink": "https://wa.me/17822635715?text=Quiero%20organizar%20mis%20gastos%20con%20Wasap%20Finance",
+    "icon": null,
+    "initials": "WF",
+    "color": "#84CC16"
+  },
+  {
+    "name": "Plantix Crop Doctor",
+    "provider": "Plantix",
+    "description": "Convierte tu WhatsApp en un poderoso doctor de cultivos",
+    "tags": [
+      "botánica",
+      "cultivos",
+      "agrotech"
+    ],
+    "whatsappLink": "https://wa.me/917876171002?text=Hello%20Plantix",
+    "icon": null,
+    "initials": "PC",
+    "color": "#F97316"
+  },
+  {
+    "name": "TranscribeMe",
+    "provider": "Rather Labs",
+    "description": "Convierte las notas de voz de WhatsApp en texto",
+    "tags": [
+      "productividad",
+      "audio"
+    ],
+    "whatsappLink": "https://wa.me/5491153495987?text=Hola",
+    "icon": null,
+    "initials": "T",
+    "color": "#F59E0B"
+  },
+  {
+    "name": "Rori",
+    "provider": "Rising Academies",
+    "description": "Tutor de mátemáticas con IA, transformando la educación para los que más la necesitan",
+    "tags": [
+      "educación",
+      "matemáticas",
+      "tutor"
+    ],
+    "whatsappLink": "https://wa.me/12065906259?text=Hi.%20I%20come%20from%20wasap.market",
+    "icon": null,
+    "initials": "R",
+    "color": "#8B5CF6"
+  },
+  {
+    "name": "RecordAI",
+    "provider": "RecordAi",
+    "description": "Un amigo en WhatsApp para configurar recordatorios y eventos",
+    "tags": [
+      "productividad",
+      "IA"
+    ],
+    "whatsappLink": "https://wa.me/12184801818?text=Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "R",
+    "color": "#F97316"
+  },
+  {
+    "name": "ShortPix AI",
+    "provider": "ShortIA LLC",
+    "description": "Crea fotos de ti mismo con IA directamente en WhatsApp",
+    "tags": [
+      "fotos",
+      "imágenes",
+      "arte"
+    ],
+    "whatsappLink": "https://wa.me/16297727827?text=Hi%2C%20I%20come%20from%20wasap.market",
+    "icon": null,
+    "initials": "SA",
+    "color": "#F59E0B"
+  },
+  {
+    "name": "Kaption",
+    "provider": "Kaption AI",
+    "description": "Nunca escuches un audio largo de nuevo",
+    "tags": [
+      "productividad",
+      "audio"
+    ],
+    "whatsappLink": "https://wa.me/15304470857?text=Hi%2C%20I%20come%20from%20wasap.market",
+    "icon": null,
+    "initials": "K",
+    "color": "#3B82F6"
+  },
+  {
+    "name": "BusyScribe",
+    "provider": "Walk of Code LLC",
+    "description": "Convierte los mensajes de voz de WhatsApp en texto",
+    "tags": [
+      "productividad",
+      "audio",
+      "transcripción"
+    ],
+    "whatsappLink": "https://wa.me/19195058505?text=Hi%2C%20I%20come%20from%20wasap.market",
+    "icon": null,
+    "initials": "B",
+    "color": "#10B981"
+  },
+  {
+    "name": "Writerry",
+    "provider": "Writerry",
+    "description": "Transforma tus mensajes de WhatsApp en atractivas publicaciones de blog. Sin nuevas aplicaciones, sin curva de aprendizaje",
+    "tags": [
+      "blog",
+      "escritura"
+    ],
+    "whatsappLink": "https://wa.me/917993525287?text=Hi.%20I%20come%20from%20wasap.market",
+    "icon": null,
+    "initials": "W",
+    "color": "#3B82F6"
+  },
+  {
+    "name": "FotoLabs AI",
+    "provider": "Oddbit",
+    "description": "Crea fotos realistas con IA en WhatsApp",
+    "tags": [
+      "fotos",
+      "arte",
+      "selfies"
+    ],
+    "whatsappLink": "https://wa.me/971505072100?text=Hi%2C%20I%20come%20from%20wasap.market",
+    "icon": null,
+    "initials": "FA",
+    "color": "#3B82F6"
+  },
+  {
+    "name": "Secret App",
+    "provider": "Secret App",
+    "description": "Envía secretos a grupos de WhatsApp de forma anónima 🥷",
+    "tags": [
+      "privacidad"
+    ],
+    "whatsappLink": "https://wa.me/917818923807?text=Hi.%20I%20come%20from%20wasap.market",
+    "icon": null,
+    "initials": "SA",
+    "color": "#10B981"
+  },
+  {
+    "name": "NeoTalk",
+    "provider": "GenLoyal",
+    "description": "Potente plataforma de traducción que te acompaña dondequiera que vayas",
+    "tags": [
+      "idiomas",
+      "traducción"
+    ],
+    "whatsappLink": "https://wa.me/17864961982?text=Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "N",
+    "color": "#3B82F6"
+  },
+  {
+    "name": "Lexa",
+    "provider": "Ministerio Público Fiscal de Mendoza",
+    "description": "Soy Lexa, asistente virtual del Ministerio Público Fiscal de Mendoza",
+    "tags": [
+      "denuncias",
+      "ciudadanía"
+    ],
+    "whatsappLink": "https://wa.me/5492615790203?text=Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "L",
+    "color": "#EF4444"
+  },
+  {
+    "name": "yavendió!",
+    "provider": "YaVendió",
+    "description": "Triplica las ventas de tu ecommerce con un vendedor virtual de Inteligencia artificial que vende por ti 24/7",
+    "tags": [
+      "ventas",
+      "ecommerce"
+    ],
+    "whatsappLink": "https://wa.me/51986076968?text=Hola!%20Vengo%20desde%20Wasap%20Market%20con%20el%20cup%C3%B3n%20de%20descuento%20WASSAP20",
+    "icon": null,
+    "initials": "Y",
+    "color": "#EF4444"
+  },
+  {
+    "name": "Elia",
+    "provider": "AHURAD SAS",
+    "description": "Centraliza tus compromisos diarios laborales y personales por WhatsApp  ¡Para que no se te escape nada!",
+    "tags": [
+      "asistente",
+      "productividad",
+      "recordatorios"
+    ],
+    "whatsappLink": "https://wa.me/573012184935?text=%C2%A1Hola%20Elia!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "E",
+    "color": "#6366F1"
+  },
+  {
+    "name": "Whaber",
+    "provider": "Whaber",
+    "description": "Pide un taxi, una pizza, reserva boletos y sin necesidad de abrir varias aplicaciones",
+    "tags": [
+      "reservas",
+      "taxi",
+      "asistente"
+    ],
+    "whatsappLink": "https://wa.me/593989631284?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "W",
+    "color": "#06B6D4"
+  },
+  {
+    "name": "Boty",
+    "provider": "Growty",
+    "description": "Agente IA entrenado en temas de creación y crecimiento de productos digitales (Product & Growth)",
+    "tags": [
+      "emprendimiento",
+      "comunidad",
+      "crecimiento"
+    ],
+    "whatsappLink": "https://wa.me/51992982313?text=%C2%A1Hola%20Boty!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "B",
+    "color": "#EF4444"
+  },
+  {
+    "name": "Vita",
+    "provider": "Vita",
+    "description": "Conectamos la necesidad del paciente con el cuidado ideal",
+    "tags": [
+      "salud",
+      "medicina",
+      "hospitales"
+    ],
+    "whatsappLink": "https://wa.me/56967112269?text=%C2%A1Hola%20Vita!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "V",
+    "color": "#EF4444"
+  },
+  {
+    "name": "Gasti Pro",
+    "provider": "MoneyLabs",
+    "description": "Managing your finance, as easy as sending a message",
+    "tags": [
+      "finanzas",
+      "contabilidad",
+      "economía"
+    ],
+    "whatsappLink": "https://wa.me/5491127067308?text=%C2%A1Hola%20Gasti!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "GP",
+    "color": "#10B981"
+  },
+  {
+    "name": "Asistente PIA",
+    "provider": "New Way To Work, INc",
+    "description": "Asistente personal para cada uno de sus colaboradores",
+    "tags": [
+      "asistente",
+      "productividad",
+      "voz"
+    ],
+    "whatsappLink": "https://wa.me/50672436094?text=%C2%A1Hola%20PIA!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "AP",
+    "color": "#8B5CF6"
+  },
+  {
+    "name": "aiselfi.es",
+    "provider": "aiselfi",
+    "description": "Fotos Profesionales con IA – Sin Estudios ni Fotógrafos",
+    "tags": [
+      "fotos",
+      "imágenes",
+      "selfies"
+    ],
+    "whatsappLink": "https://wa.me/12762683680?text=%C2%A1Hola%20aiselfi.es!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "A",
+    "color": "#F59E0B"
+  },
+  {
+    "name": "AIVA",
+    "provider": "AIVA",
+    "description": "Agendamiento automático por WhatsApp con IA",
+    "tags": [
+      "agendamiento",
+      "citas",
+      "servicio"
+    ],
+    "whatsappLink": "https://wa.me/51908861840?text=%C2%A1Hola%20AIVA!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "A",
+    "color": "#6366F1"
+  },
+  {
+    "name": "Delfi",
+    "provider": "Delfar",
+    "description": "Delivery de medicamentos en 35 min",
+    "tags": [
+      "salud",
+      "medicina",
+      "delivery"
+    ],
+    "whatsappLink": "https://wa.me/5491124095337?text=Hola%20Delfi!%20%20Tengo%20el%20descuento%20de%20%23WasapMarket",
+    "icon": null,
+    "initials": "D",
+    "color": "#EF4444"
+  },
+  {
+    "name": "Domus AI - Asistente Personal",
+    "provider": "Domus AI",
+    "description": "Automatizamos la gestión inmobiliaria con AI agents",
+    "tags": [
+      "administración",
+      "convivencia",
+      "asistente"
+    ],
+    "whatsappLink": "https://wa.me/51912307482?text=%C2%A1Hola%20Domus%20AI!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "DA",
+    "color": "#06B6D4"
+  },
+  {
+    "name": "Zapia",
+    "provider": "Zapia AI",
+    "description": "Tu asistente de Inteligencia Artificial",
+    "tags": [
+      "asistente",
+      "productividad",
+      "recordatorios"
+    ],
+    "whatsappLink": "https://wa.me/59894101100?text=%C2%A1Hola%20Zapia!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "Z",
+    "color": "#10B981"
+  },
+  {
+    "name": "Cake AI",
+    "provider": "Giftcake.app",
+    "description": "Te enviamos recordatorios de cumpleaños de tus amigos y te recomendamos que regalarles en base a sus gustos",
+    "tags": [
+      "regalos",
+      "recordatorios",
+      "cumpleaños"
+    ],
+    "whatsappLink": "https://wa.me/5491170631673?text=%C2%A1Hola%20Cake%20AI!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "CA",
+    "color": "#EC4899"
+  },
+  {
+    "name": "Simple",
+    "provider": "Simple",
+    "description": "Crea cotizaciones PDF en segundos y más. La herramienta #1 para negocios de latam",
+    "tags": [
+      "cotizaciones",
+      "finanzas",
+      "negocios"
+    ],
+    "whatsappLink": "https://wa.me/5218112568639?text=%C2%A1Hola%20Simple!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "S",
+    "color": "#EC4899"
+  },
+  {
+    "name": "MedCamp IA",
+    "provider": "MedCamp IA",
+    "description": "Transforma tu atención médica con inteligencia artificial y WhatsApp",
+    "tags": [
+      "salud",
+      "medicina",
+      "consultorios"
+    ],
+    "whatsappLink": "https://wa.me/12134516444?text=Hola%20MedCamp%20IA.%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "MI",
+    "color": "#F59E0B"
+  },
+  {
+    "name": "Alejo Jobs",
+    "provider": "ALEJO JOBS LLC",
+    "description": "Asistente virtual para acelerar procesos de búsqueda laboral",
+    "tags": [
+      "empleabilidad",
+      "cv",
+      "LinkedIn"
+    ],
+    "whatsappLink": "https://wa.me/12513062763?text=%C2%A1Hola%20Alejo%20Jobs!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "AJ",
+    "color": "#F59E0B"
+  },
+  {
+    "name": "Dinta",
+    "provider": "Dinta",
+    "description": "La Inteligencia Artificial que te ayuda a tener más dinero a fin de mes. Ahora tenés Entrenador Financiero Personal",
+    "tags": [
+      "finanzas",
+      "contabilidad",
+      "dinero"
+    ],
+    "whatsappLink": "https://wa.me/59898228502?text=%C2%A1Hola%20Dinta!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "D",
+    "color": "#84CC16"
+  },
+  {
+    "name": "Solubre",
+    "provider": "Solubre",
+    "description": "Venta de productos de limpieza",
+    "tags": [
+      "limpieza",
+      "hogar",
+      "ecommerce"
+    ],
+    "whatsappLink": "https://wa.me/51950705212?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "S",
+    "color": "#3B82F6"
+  },
+  {
+    "name": "La Camelia",
+    "provider": "La Camelia",
+    "description": "Venta de arreglos florales y flores",
+    "tags": [
+      "flores",
+      "arreglos",
+      "ecommerce"
+    ],
+    "whatsappLink": "https://wa.me/51912008312?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "LC",
+    "color": "#06B6D4"
+  },
+  {
+    "name": "Tres Fundos",
+    "provider": "Tres Fundos",
+    "description": "Venta de carne",
+    "tags": [
+      "carne",
+      "parrilla",
+      "comida"
+    ],
+    "whatsappLink": "https://wa.me/51904331962?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "TF",
+    "color": "#06B6D4"
+  },
+  {
+    "name": "Liminal",
+    "provider": "Liminal",
+    "description": "Venta de ropa",
+    "tags": [
+      "ropa",
+      "polos",
+      "camisas"
+    ],
+    "whatsappLink": "https://wa.me/51916992517?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "L",
+    "color": "#EF4444"
+  },
+  {
+    "name": "Arde",
+    "provider": "Arde",
+    "description": "Venta de velas",
+    "tags": [
+      "velas",
+      "fuego"
+    ],
+    "whatsappLink": "https://wa.me/51922340092?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "A",
+    "color": "#3B82F6"
+  },
+  {
+    "name": "Pantufiesta",
+    "provider": "Pantufiesta",
+    "description": "Venta de morrales y artículos para fiesta",
+    "tags": [
+      "morrales",
+      "cilindros",
+      "ecommerce"
+    ],
+    "whatsappLink": "https://wa.me/5215639639228?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "P",
+    "color": "#3B82F6"
+  },
+  {
+    "name": "Apolo",
+    "provider": "misfit",
+    "description": "Registra tus gastos en segundos",
+    "tags": [
+      "finanzas",
+      "contabilidad",
+      "gastos"
+    ],
+    "whatsappLink": "https://wa.me/51977504342?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "A",
+    "color": "#F97316"
+  },
+  {
+    "name": "WapIA",
+    "provider": "Wapi Firma",
+    "description": "La primera solución de firma legal por WhatsApp",
+    "tags": [
+      "firma",
+      "documentos",
+      "legal"
+    ],
+    "whatsappLink": "https://wa.me/5491170658742?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "W",
+    "color": "#EF4444"
+  },
+  {
+    "name": "Yopi",
+    "provider": "Yopin",
+    "description": "Encuentra los mejores precios y promociones en productos de cientos de tiendas, todo desde WhatsApp",
+    "tags": [
+      "ofertas",
+      "descuentos",
+      "tiendas"
+    ],
+    "whatsappLink": "https://wa.me/5491138839076?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "Y",
+    "color": "#F97316"
+  },
+  {
+    "name": "Braix",
+    "provider": "Braix",
+    "description": "Braix convierte tus mensajes de WhatsApp en notas organizadas en Notion",
+    "tags": [
+      "notion",
+      "productividad",
+      "notas"
+    ],
+    "whatsappLink": "https://wa.me/524428775159?text=%C2%A1Hola%20Braix!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "B",
+    "color": "#8B5CF6"
+  },
+  {
+    "name": "Shimli AI Agent",
+    "provider": "Shimli",
+    "description": "Agent AI",
+    "tags": [
+      "productividad",
+      "transcripción",
+      "web"
+    ],
+    "whatsappLink": "https://wa.me/14243519915?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "SA",
+    "color": "#6366F1"
+  },
+  {
+    "name": "ChatGPT",
+    "provider": "OpenAI",
+    "description": "Utiliza ChatGPT oficial directo desde WhatsApp",
+    "tags": [
+      "asistente",
+      "IA",
+      "chat"
+    ],
+    "whatsappLink": "https://wa.me/18002428478?text=%C2%A1Hola%20ChatGPT!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "C",
+    "color": "#10B981"
+  },
+  {
+    "name": "SORBY",
+    "provider": "SorbyData",
+    "description": "Plataforma IA para gestionar obras de construcción",
+    "tags": [
+      "obras",
+      "gastos",
+      "google sheets"
+    ],
+    "whatsappLink": "https://wa.me/5491128233360?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "S",
+    "color": "#6366F1"
+  },
+  {
+    "name": "TINA",
+    "provider": "TINA SURE SAC",
+    "description": "Cotiza tu SOAT de motos 🛵",
+    "tags": [
+      "soat",
+      "motos",
+      "seguros"
+    ],
+    "whatsappLink": "https://wa.me/51941245508?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "T",
+    "color": "#3B82F6"
+  },
+  {
+    "name": "GhibliDreams Bot",
+    "provider": "Knowmad Studios",
+    "description": "Convierte tus fotos en retratos mágicos estilo anime por WhatsApp",
+    "tags": [
+      "anime",
+      "ilustración",
+      "fotos"
+    ],
+    "whatsappLink": "https://wa.me/51941458808?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "GB",
+    "color": "#3B82F6"
+  },
+  {
+    "name": "Perplexity",
+    "provider": "Perplexity",
+    "description": "Motor de respuestas gratuito impulsado por IA que proporciona respuestas precisas, confiables y en tiempo real a cualquier pregunta.",
+    "tags": [
+      "buscador",
+      "IA",
+      "chat"
+    ],
+    "whatsappLink": "https://wa.me/18334363285?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "P",
+    "color": "#EF4444"
+  },
+  {
+    "name": "Neod",
+    "provider": "Neod Labs",
+    "description": "Toda tu gestión diaria desde WhatsApp",
+    "tags": [
+      "productividad",
+      "integraciones",
+      "recordatorios"
+    ],
+    "whatsappLink": "https://wa.me/34931838820?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "N",
+    "color": "#3B82F6"
+  },
+  {
+    "name": "NORA",
+    "provider": "NORA",
+    "description": "Todo lo que odias de buscar casa…ya lo resolvimos. Se llama NORA",
+    "tags": [
+      "inmobiliaria",
+      "propiedades",
+      "arrendatarios"
+    ],
+    "whatsappLink": "https://wa.me/573016390091?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "N",
+    "color": "#EF4444"
+  },
+  {
+    "name": "Hazlo",
+    "provider": "Hazlo LATAM",
+    "description": "Tu copiloto inteligente para emprender desde WhatsApp",
+    "tags": [
+      "emprendimiento",
+      "asistente",
+      "crecimiento"
+    ],
+    "whatsappLink": "https://wa.me/573013063535?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "H",
+    "color": "#3B82F6"
+  },
+  {
+    "name": "WhatsApp Translate",
+    "provider": "Verba Tech Inc.",
+    "description": "Traduce audio y texto de WhatsApp a cualquier idioma",
+    "tags": [
+      "idiomas",
+      "traducción",
+      "audios"
+    ],
+    "whatsappLink": "https://wa.me/16282943534?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "WT",
+    "color": "#8B5CF6"
+  },
+  {
+    "name": "MIA",
+    "provider": "CVMATCHER",
+    "description": "Encuentra prácticas pre y profesionales en +20 portales, solo escribiendo por WhatsApp",
+    "tags": [
+      "empleabilidad",
+      "profesional",
+      "cv"
+    ],
+    "whatsappLink": "https://wa.me/51934757508?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "M",
+    "color": "#06B6D4"
+  },
+  {
+    "name": "Angela",
+    "provider": "VIVESEGUROS",
+    "description": "Descubre y compra el Seguro más economico y con mejor cobertura para tu auto",
+    "tags": [
+      "seguros",
+      "cotización",
+      "vehículos"
+    ],
+    "whatsappLink": "https://wa.me/56937632865?text=%C2%A1Hola!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "A",
+    "color": "#EF4444"
+  },
+  {
+    "name": "Worky",
+    "provider": "MyWorkin",
+    "description": "Agente de empleabilidad para talento junior",
+    "tags": [
+      "empleabilidad",
+      "profesional",
+      "entrevistas"
+    ],
+    "whatsappLink": "https://wa.me/15795022265?text=%C2%A1Hola%20Worky!%20Vengo%20desde%20Wasap%20Market",
+    "icon": null,
+    "initials": "W",
+    "color": "#3B82F6"
+  }
+]
